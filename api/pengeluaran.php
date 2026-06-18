@@ -16,7 +16,7 @@ $data = mysqli_query(
 
 <body>
 
-    <h2>Data Pemasukan</h2>
+    <h2>Data Pengeluaran</h2>
 
     <a href="tambah_pengeluaran.php">
         Tambah Data
